@@ -1,0 +1,1 @@
+"C:\Users\Morgan\AppData\Local\Microsoft\WindowsApps\python.exe" "D:\Program Files\scheduled lock\scheduled_lock.py"
