@@ -9,3 +9,7 @@ While the computer is supposed to be "locked", the script will continuously lock
 A lockfile is created to ensure that only one instance of this script runs at any given time; this is helpful for integration with Windows Task Scheduler because you won't have to worry about Task Scheduler spinning up a huge number of these scripts at once.
 
 If the python script is run using the `scheduled_lock_runner_batch.bat` runner, a command prompt window will be open while the script is running. This can be avoided by using the `scheduled_lock_runner_script.vbs` runner instead, which will hide the command prompt window.
+
+# Dependencies
+
+- psutil
