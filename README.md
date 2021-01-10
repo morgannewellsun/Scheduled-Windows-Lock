@@ -12,4 +12,5 @@ If the python script is run using the `scheduled_lock_runner_batch.bat` runner, 
 
 # Dependencies
 
-- psutil
+- python 3 (tested with 3.9.1)
+- psutil (tested with 5.8.0)
